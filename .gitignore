@@ -253,3 +253,5 @@ ModelManifest.xml
 
 # .obj 3d model files unignore
 !Engine/models/*.obj
+
+*.vcxproj
